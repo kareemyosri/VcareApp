@@ -16,3 +16,6 @@ Vcare is a user-friendly, Flutter-based clinic app that streamlines the doctor a
 - Cubit for efficient state management.
 - API integration with Dio for seamless data interaction.
 
+🔹 **Video Link** 🔹
+
+✅ **https://drive.google.com/file/d/1EwWx6f5d8vZm3uBj_OOyd3E8SAlZTnEq/view?usp=sharing
