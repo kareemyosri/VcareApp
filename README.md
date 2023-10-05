@@ -22,5 +22,5 @@ Vcare is a user-friendly, Flutter-based clinic app that streamlines the doctor a
 
 🔹 **APK Link** 🔹
 
-✅ [https://drive.google.com/file/d/1EwWx6f5d8vZm3uBj_OOyd3E8SAlZTnEq/view?usp=sharing](https://drive.google.com/file/d/1eFd9FLZ-HQQ7kjdRvlOEnc1hr9DXp4O0/view?usp=drive_link)https://drive.google.com/file/d/1eFd9FLZ-HQQ7kjdRvlOEnc1hr9DXp4O0/view?usp=drive_link
+✅ https://drive.google.com/file/d/1eFd9FLZ-HQQ7kjdRvlOEnc1hr9DXp4O0/view?usp=drive_link
 
